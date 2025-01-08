@@ -1,0 +1,26 @@
+header {
+    margin: 20px 6%;
+}
+
+header>section>nav>li {
+    color: aqua;
+
+}
+
+header>section>nav>p {
+    display: inline-block;
+}
+
+p {
+    text-align: justify;
+    margin: 0 1%;
+}
+
+.captionName {
+    /* text-align: center; */
+    margin-left: 2%;
+    font-size: 1.5em;
+    border: 2px solid greenyellow;
+    box-shadow: 5px 5px 5px green;
+    
+}
